@@ -1,0 +1,634 @@
+<!DOCTYPE html>
+<!--[if IE 7 ]>    <html lang="en-gb" class="isie ie7 oldie no-js"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en-gb" class="isie ie8 oldie no-js"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en-gb" class="isie ie9 no-js"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--> <html lang="en-gb" xml:lang="en-gb" class="no-js"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+    <!--[if lt IE 9]> 
+    	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <![endif]-->
+	<meta name="viewport" content="width=device-width, initial-scale=1">    
+    
+    <title>Карта сайта</title>
+    <!--[if lt IE 9]>
+        <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600italic,700%7CMontserrat:400,700%7CLato' rel='stylesheet' type='text/css'>
+    <!-- Icon-Font -->
+        <!--[if IE 7]>
+    	<link rel="stylesheet" href="/bitrix/templates/tseh85ru/font-awesome/font-awesome/css/font-awesome-ie7.min.css" type="text/css">
+    <![endif]-->
+    <!-- Google Fonts -->
+                        <script type="text/javascript" src="/local/templates/tseh85ru/js/modernizr.js"></script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="robots" content="index, follow" />
+<meta name="keywords" content="1С-Битрикс, CMS, PHP, bitrix, система управления контентом" />
+<meta name="description" content="1С-Битрикс: Управление сайтом" />
+<link href="/bitrix/cache/css/s1/tseh85ru/kernel_main/kernel_main.css?148232807144417" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/tseh85ru/page_a8a48a357291d63fbace8f2f95f6affa/page_a8a48a357291d63fbace8f2f95f6affa.css?1466575388333" type="text/css"  rel="stylesheet" />
+<link href="/bitrix/cache/css/s1/tseh85ru/template_8056bde192a2e17b4d38eaa139d4afb9/template_8056bde192a2e17b4d38eaa139d4afb9.css?1485180062224423" type="text/css"  data-template-style="true"  rel="stylesheet" />
+<script type="text/javascript">if(!window.BX)window.BX={message:function(mess){if(typeof mess=='object') for(var i in mess) BX.message[i]=mess[i]; return true;}};</script>
+<script type="text/javascript">(window.BX||top.BX).message({'JS_CORE_LOADING':'Загрузка...','JS_CORE_NO_DATA':'- Нет данных -','JS_CORE_WINDOW_CLOSE':'Закрыть','JS_CORE_WINDOW_EXPAND':'Развернуть','JS_CORE_WINDOW_NARROW':'Свернуть в окно','JS_CORE_WINDOW_SAVE':'Сохранить','JS_CORE_WINDOW_CANCEL':'Отменить','JS_CORE_WINDOW_CONTINUE':'Продолжить','JS_CORE_H':'ч','JS_CORE_M':'м','JS_CORE_S':'с','JSADM_AI_HIDE_EXTRA':'Скрыть лишние','JSADM_AI_ALL_NOTIF':'Показать все','JSADM_AUTH_REQ':'Требуется авторизация!','JS_CORE_WINDOW_AUTH':'Войти','JS_CORE_IMAGE_FULL':'Полный размер'});</script>
+<script type="text/javascript">(window.BX||top.BX).message({'LANGUAGE_ID':'ru','FORMAT_DATE':'DD.MM.YYYY','FORMAT_DATETIME':'DD.MM.YYYY HH:MI:SS','COOKIE_PREFIX':'BITRIX_SM','SERVER_TZ_OFFSET':'10800','SITE_ID':'s1','SITE_DIR':'/','USER_ID':'','SERVER_TIME':'1521218232','USER_TZ_OFFSET':'0','USER_TZ_AUTO':'Y','bitrix_sessid':'4d6cc6e01f51ff672d66dbbe5761e408'});</script>
+
+
+<script type="text/javascript" src="/bitrix/cache/js/s1/tseh85ru/kernel_main/kernel_main.js?1482328071279015"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_db.min.js?14655491175048"></script>
+<script type="text/javascript" src="/bitrix/js/main/core/core_frame_cache.min.js?148232769711191"></script>
+<script type="text/javascript">BX.setJSList(['/bitrix/js/main/core/core.js?148232770573556','/bitrix/js/main/core/core_ajax.js?148232770021031','/bitrix/js/main/json/json2.min.js?14655470153467','/bitrix/js/main/core/core_ls.js?14655470157365','/bitrix/js/main/core/core_fx.js?14655470159592','/bitrix/js/main/core/core_popup.js?148232769829812','/bitrix/js/main/session.js?14655470152511','/bitrix/js/main/core/core_window.js?146554911774754','/bitrix/js/main/core/core_date.js?148232769734241','/bitrix/js/main/utils.js?146554701519858','/local/templates/tseh85ru/components/bitrix/map.yandex.view/mymap/script.js?14851800991540']); </script>
+<script type="text/javascript">BX.setCSSList(['/bitrix/js/main/core/css/core.css?14655470152854','/bitrix/js/main/core/css/core_popup.css?148232770029699','/bitrix/js/main/core/css/core_date.css?14823276979657','/bitrix/components/bitrix/main.map/templates/.default/style.css?1465547016139','/local/templates/tseh85ru/font-awesome/font-awesome/css/font-awesome.min.css?146616729721441','/local/templates/tseh85ru/bootstrap/css/bootstrap.min.css?1466167298109518','/local/templates/tseh85ru/owl-carousel/owl.carousel.css?14661672961476','/local/templates/tseh85ru/masterslider/style/masterslider.css?146616729710518','/local/templates/tseh85ru/masterslider/skins/default/style.css?14661672974112','/local/templates/tseh85ru/styles/main.css?146650911273688','/bitrix/components/bitrix/map.yandex.system/templates/.default/style.css?1465547022666']); </script>
+
+
+<script type="text/javascript" src="/bitrix/cache/js/s1/tseh85ru/template_7a10793c208370b850654b41a7e00423/template_7a10793c208370b850654b41a7e00423.js?14851801301912"></script>
+<script type="text/javascript">var _ba = _ba || []; _ba.push(["aid", "07abe18fb2cf390aa9844aecc1434b4a"]); _ba.push(["host", "tseh85.ru"]); (function() {var ba = document.createElement("script"); ba.type = "text/javascript"; ba.async = true;ba.src = (document.location.protocol == "https:" ? "https://" : "http://") + "bitrix.info/ba.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ba, s);})();</script>
+
+
+<style>
+
+	.product__buy{
+
+}
+	.product-icons{
+
+}
+
+#features-section .gallery-info h1{
+margin:0 !important;
+}
+#features-section .article-header-5 h1{
+margin:0 !important;
+}
+#features-section h1{
+margin: 25px 0 25px 0 !important;
+}
+#features-section .gallery-slider{
+margin-top:0 !important;
+}
+#features-section .article-header-5{
+margin-bottom:0 !important;
+}
+
+
+.new {
+    color: #ecad25;
+	}
+</style>
+
+<meta name="yandex-verification" content="83cada2b652b083d" />
+
+<script type="text/javascript" src="//vk.com/js/api/openapi.js?126"></script>
+
+</head>
+<body class="bg-pattern">
+<style>
+	.social_icons{
+    width: 60px;
+display: block;
+    height: 50px;
+    position: absolute;
+    top: 50px;
+    left: 1175px;
+	z-index:9999;
+
+ -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: grayscale(100%);
+  filter: gray; /* IE 6-9 */
+	}
+	@media only screen and (max-width: 1300px){
+	.social_icons{
+
+display:none;
+		}
+}
+
+	.icon_menu{
+    padding: 15px 0px !important;
+    display: inline !important; 
+
+}
+
+	.icon_menu img{
+ -webkit-filter: grayscale(100%);
+  -moz-filter: grayscale(100%);
+  -ms-filter: grayscale(100%);
+  -o-filter: grayscale(100%);
+  filter: grayscale(100%);
+  filter: gray; /* IE 6-9 */
+
+}
+	</style>
+
+
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript">
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter38535845 = new Ya.Metrika({
+                    id:38535845,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true,
+                    webvisor:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/38535845" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+	<div id="all">
+        <header class="page-header">
+            <div class="page-header-content container">
+                <div class="menu-button-container">
+                    <i id="menu-button" class="menu-button fa fa-reorder"></i>
+                </div>
+                <nav id="nav-top" class="nav-top">
+                    <ul>
+                        <li><a href="/#contact-section">Адреса</a></li>
+                       <li><a href="/#services-section">Ценности</a></li>
+						<li><a href="/#posts-section">Новости</a></li>
+                    </ul>
+                                        <a class="logo-primary" href="/"><img alt="ЦЕХ 85" src="/local/templates/tseh85ru/images/new_logo_85.png"></a>
+                                        <div class="logo-secondary"><img alt="ЦЕХ 85" src="/local/templates/tseh85ru/images/new_logo_85_second.png"></div>
+                    <ul>
+ <li><a href="/catalog/">Доставка</a></li>
+                        <li><a href="/#rewiev-section">Вакансии</a></li>
+<li>
+<div style="padding: 12px 30px;">
+<a href="https://vk.com/tseh85" class="icon_menu">
+	<img src="/local/templates/tseh85ru/images/vk.jpg" width="25px"  height="25px"/>
+</a>
+<a href="https://www.instagram.com/tseh85/" class="icon_menu">
+	<img src="/local/templates/tseh85ru/images/instagram.png" width="28px"  height="28px"/>
+</a>
+<a href="mailto:info@tseh85.ru" class="icon_menu">
+	<img src="/local/templates/tseh85ru/images/ico-post.png" width="26px"  height="26px" style="opacity:0.6" />
+</a>
+	</div>
+						</li>
+
+                    </ul>
+
+
+                </nav>
+            </div>
+        </header>
+
+    <section class="top-section"></section>
+        <div class="container">
+            <div class="col-md-9">
+                <section id="features-section">
+                    <div class="section-content">
+                        <header class="section-header-full">
+                            <h1>Карта сайта</h1>
+                        </header>
+<table class="map-columns">
+<tr>
+	<td>
+		<ul class="map-level-0">
+
+		
+			
+
+			
+			
+					<li><a href="/">Главная</a><div>1С-Битрикс: Управление сайтом</div></li>
+
+			
+
+			
+		
+			
+
+			
+			
+					<li><a href="/personal/">Профиль</a></li>
+
+			
+
+			
+		
+			
+
+			
+			
+					<li><a href="/content/">Контент</a></li>
+
+			
+
+			
+		
+			
+
+							</ul></td><td><ul class="map-level-0">
+			
+			
+					<li><a href="/e-store/">Магазин</a></li>
+
+			
+
+			
+		
+			
+
+			
+			
+					<li><a href="/catalog/">Каталог</a></li>
+
+			
+
+			
+		
+		
+		</ul>
+	</td>
+</tr>
+</table>                    </div><!-- .section-content -->
+                </section>
+            </div>
+            <div class="sidebar col-md-3">
+                <!-- <div class="margin-40"></div>
+<form class="form-search onscroll-animate">
+    <input name="s" type="text" placeholder="Поиск по каталогу">
+</form> -->
+<h2 style="margin: 0; padding: 0;">+7 812 775-77-85</h2><article class="onscroll-animate">
+    <div class="article-header-4">
+        <h1>Меню</h1>
+    </div>
+    <ul class="list-arrows">
+			 <li id="bx_1847241719_0"><a href="/catalog/sladkie-pirogi/"> <article><div class="list-arrows-content">Сладкие пироги</div><div class="list-arrows-value">2</div></article></a></li>
+			 <li id="bx_1847241719_0"><a href="/catalog/hearty-pies/"> <article><div class="list-arrows-content">Сытные пироги</div><div class="list-arrows-value">6</div></article></a></li>
+			 <li id="bx_1847241719_0"><a href="/catalog/deserty/"> <article><div class="list-arrows-content">Десерты</div><div class="list-arrows-value">18</div></article></a></li>
+			 <li id="bx_1847241719_0"><a href="/catalog/drinks/"> <article><div class="list-arrows-content">Напитки</div><div class="list-arrows-value">2</div></article></a></li>
+	</ul>
+</article>
+
+<div class="margin-60"></div>            </div>
+        </div><!-- .container -->
+
+ 
+
+
+        <section id="contact-section">
+            <div class="section-content">
+            
+                <!-- Google map -->
+                <div class="google-map">
+<!--
+<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=-McGqQLO3mnHM_Qd76E174XHY_vGadKZ&amp;width=100%25&amp;height=647&amp;lang=ru_RU&amp;sourceType=constructor&amp;scroll=true"></script>
+
+-->
+
+<script type="text/javascript">
+function BX_SetPlacemarks_MAP_NSoTYoFHL3(map)
+{
+	if(typeof window["BX_YMapAddPlacemark"] != 'function')
+	{
+		/* If component's result was cached as html,
+		 * script.js will not been loaded next time.
+		 * let's do it manualy.
+		*/
+
+		(function(d, s, id)
+		{
+			var js, bx_ym = d.getElementsByTagName(s)[0];
+			if (d.getElementById(id)) return;
+			js = d.createElement(s); js.id = id;
+			js.src = "/local/templates/tseh85ru/components/bitrix/map.yandex.view/mymap/script.js";
+			bx_ym.parentNode.insertBefore(js, bx_ym);
+		}(document, 'script', 'bx-ya-map-js'));
+
+		var ymWaitIntervalId = setInterval( function(){
+				if(typeof window["BX_YMapAddPlacemark"] == 'function')
+				{
+					BX_SetPlacemarks_MAP_NSoTYoFHL3(map);
+					clearInterval(ymWaitIntervalId);
+				}
+			}, 300
+		);
+
+		return;
+	}
+
+	var arObjects = {PLACEMARKS:[],POLYLINES:[]};
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.344724202377','LAT':'59.835651273337','TEXT':'ул. Ленсовета, 70, м. Звездная'});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.482539865082','LAT':'59.905861290736','TEXT':' ул. Дыбенко, 27, м. Дыбенко'});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.314406414017','LAT':'59.866341935651','TEXT':'ул. Бассейная, 12, м. Парк Победы'});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.327208363754','LAT':'60.044563085327','TEXT':' пр. Луначарского, 46, м. пр. Просвещения'});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.405734482803','LAT':'60.038899987746','TEXT':' ул. Брянцева, 20, м. Гражданский пр.'});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.396673892868','LAT':'59.971605990389','TEXT':'пр. Металлистов, 116, м. Выборгская '});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.316157940475','LAT':'59.92832333109','TEXT':' пер. Гривцова, 20, м. Садовая '});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.410370916008','LAT':'59.928913107141','TEXT':'пр. Заневский, 14, м. Новочеркасская'});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.469277880951','LAT':'59.904109885851','TEXT':' ул. Дыбенко, 16, м. Дыбенко'});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.324553482803','LAT':'59.929788174006','TEXT':'ул. Садовая, 25, м. Сенная/ Спасская'});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.324700856483','LAT':'59.888792983235','TEXT':'ул. Заставская, 28, м. Московские ворота'});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.353771991402','LAT':'60.049565228389','TEXT':'пр. Просвещения, 48, м. пр. Просвещения'});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.355740375273','LAT':'60.163105992194','TEXT':'10й км Новоприозерского шоссе, поворот на АЗС'});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.359971933422','LAT':'59.936128501182','TEXT':'Восстания, 12, м. пл Восстания'});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.51414393248','LAT':'59.892784636025','TEXT':'Мега Дыбенко, м. Дыбенко'});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.345365018524','LAT':'59.971331601743','TEXT':'Смолячкова, 14, м. Выборгская'});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.267421604565','LAT':'59.849013569652','TEXT':'бульвар Новаторов, 17, м. Лениниский пр.'});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.177008584656','LAT':'59.834593191306','TEXT':'ул. Партизана Германа, 14, м. пр. Ветеранов '});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.320973296295','LAT':'59.875662603308','TEXT':'Московский пр., д. 182, м. Электросила'});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.392970949738','LAT':'60.01467247862','TEXT':'пр. Науки, д.12,м. Академическая'});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.368543771164','LAT':'59.932480868551','TEXT':'Суворовский пр., 3/5, м. пл. Восстания'});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.312837398148','LAT':'59.965331222799','TEXT':'ул Льва Толстого, 1-3, м. Петроградская'});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.350266646553','LAT':'59.834983087234','TEXT':'Пулковская ул., д. 19, м. Звездная'});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.51598372226','LAT':'59.898180344647','TEXT':'Европейский пр.,д.5 (Кудрово), м. Дыбенко'});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.366666838623','LAT':'59.926286180797','TEXT':'Полтавский проезд, д. 2, м. пл. Восстания'});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.246246203705','LAT':'60.016775674241','TEXT':'ТК Пять Озер'});
+	arObjects.PLACEMARKS[arObjects.PLACEMARKS.length] = BX_YMapAddPlacemark(map, {'LON':'30.351708915344','LAT':'59.921833356934','TEXT':'Разъезжая ул., д. 39 СКОРО ОТКРЫТИЕ!'});
+}
+</script>
+<div class="bx-yandex-view-layout">
+	<div class="bx-yandex-view-map">
+		<script>
+			var script = document.createElement('script');
+			script.src = 'http://api-maps.yandex.ru/2.0/?load=package.full&mode=release&lang=ru-RU&wizard=bitrix';
+			(document.head || document.documentElement).appendChild(script);
+			script.onload = function () {
+				this.parentNode.removeChild(script);
+			};
+		</script>
+		<script type="text/javascript">
+
+if (!window.GLOBAL_arMapObjects)
+	window.GLOBAL_arMapObjects = {};
+
+function init_MAP_NSoTYoFHL3()
+{
+	if (!window.ymaps)
+		return;
+
+	if(typeof window.GLOBAL_arMapObjects['MAP_NSoTYoFHL3'] !== "undefined")
+		return;
+
+	var node = BX("BX_YMAP_MAP_NSoTYoFHL3");
+	node.innerHTML = '';
+
+	var map = window.GLOBAL_arMapObjects['MAP_NSoTYoFHL3'] = new ymaps.Map(node, {
+		center: [59.941025, 30.287765],
+		zoom: 10,
+		type: 'yandex#map'
+	});
+
+	map.behaviors.enable("scrollZoom");
+	map.behaviors.enable("dblClickZoom");
+	map.behaviors.enable("drag");
+	if (map.behaviors.isEnabled("rightMouseButtonMagnifier"))
+		map.behaviors.disable("rightMouseButtonMagnifier");
+	map.controls.add('scaleLine');
+	if (window.BX_SetPlacemarks_MAP_NSoTYoFHL3)
+	{
+		window.BX_SetPlacemarks_MAP_NSoTYoFHL3(map);
+	}
+}
+
+(function bx_ymaps_waiter(){
+	if(typeof ymaps !== 'undefined')
+		ymaps.ready(init_MAP_NSoTYoFHL3);
+	else
+		setTimeout(bx_ymaps_waiter, 100);
+})();
+
+
+/* if map inits in hidden block (display:none)
+*  after the block showed
+*  for properly showing map this function must be called
+*/
+function BXMapYandexAfterShow(mapId)
+{
+	if(window.GLOBAL_arMapObjects[mapId] !== undefined)
+		window.GLOBAL_arMapObjects[mapId].container.fitToViewport();
+}
+
+</script>
+<div id="BX_YMAP_MAP_NSoTYoFHL3" class="bx-yandex-map" style="height: 850px; width: 100%;">загрузка карты...</div>	</div>
+</div>
+                </div>
+                <!-- /Google map -->
+                
+                <div class="container">
+  <form class="form-contact onscroll-animate" id="contact-form" action="#" method="post" data-all-fields-required-msg="All fields are required" data-ajax-fail-msg="Ajax could not set the request" data-success-msg="Email successfully sent.">
+  
+                       <h2>Контактная информация</h2>
+                        
+                                    <!--
+<div class="icon-opening-wrapper">
+                                        <div class="icon-opening-container">
+                                            <p class="icon-opening"><i class="fa fa-phone"></i></p>
+                                            <p class="icon-opening-content">8 800 123 456 88</p>
+                                        </div>
+                                    </div>
+-->
+                                    <div class="icon-opening-wrapper">
+                                        <div class="icon-opening-container">
+
+<p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content">ул. Ленсовета, 70, м. Звездная<p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content"> ул. Дыбенко, 27, м. Дыбенко<p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content">ул. Бассейная, 12, м. Парк Победы<p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content"> пр. Луначарского, 46, м. пр. Просвещения<p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content"> ул. Брянцева, 20, м. Гражданский пр.<p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content">пр. Металлистов, 116, м. Выборгская <p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content"> пер. Гривцова, 20, м. Садовая <p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content">пр. Заневский, 14, м. Новочеркасская<p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content"> ул. Дыбенко, 16, м. Дыбенко<p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content">ул. Садовая, 25, м. Сенная/ Спасская<p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content">ул. Заставская, 28, м. Московские ворота<p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content">пр. Просвещения, 48, м. пр. Просвещения<p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content">10й км Новоприозерского шоссе, поворот на АЗС<p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content">Восстания, 12, м. пл Восстания<p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content">Мега Дыбенко, м. Дыбенко<p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content">Смолячкова, 14, м. Выборгская<p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content">бульвар Новаторов, 17, м. Лениниский пр.<p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content">ул. Партизана Германа, 14, м. пр. Ветеранов <p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content">Московский пр., д. 182, м. Электросила<p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content">пр. Науки, д.12,м. Академическая<p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content">Суворовский пр., 3/5, м. пл. Восстания<p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content">ул Льва Толстого, 1-3, м. Петроградская<p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content">Пулковская ул., д. 19, м. Звездная<p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content">Европейский пр.,д.5 (Кудрово), м. Дыбенко<p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content">Полтавский проезд, д. 2, м. пл. Восстания<p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content">ТК Пять Озер<p><p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content">Разъезжая ул., д. 39 СКОРО ОТКРЫТИЕ!<p>
+                               <p>
+                                       Пн-Пт: <span class="highlight">08:00 - 22:00</span><br>
+                                        Сб-Вс: <span class="highlight">10:00 - 22:00</span>
+                                    </p>
+<p class="icon-opening"><i class="fa fa-location-arrow"></i></p><p class="icon-opening-content">ул. Заставская, 28</p>
+                                    <p>
+                                       Пн-Пт: <span class="highlight">08:00 - 20:00</span><br>
+                                        Сб-Вс: <span class="highlight">10:00 - 20:00</span>
+                                    </p>
+<p class="icon-opening"><i class="fa fa-location-arrow "></i></p><p class="icon-opening-content">пр. Просвещения, 48 </p>
+                                    <p>
+                                       Пн-Пт: <span class="highlight">09:00 - 22:00</span><br>
+                                        Сб-Вс: <span class="highlight">10:00 - 22:00</span>
+                                    </p>
+<!--
+<p class="icon-opening-content" style="color:#fdb822;">Открытие в августе!</p>
+ -->
+</div>
+
+
+                                    </div>
+                                    <div class="icon-opening-wrapper">
+                                        <div class="icon-opening-container">
+                                            <p class="icon-opening"><i class="fa fa-envelope"></i></p>
+                                            <p class="icon-opening-content">info@tseh85.ru</p>
+                                        </div>
+                                    </div>
+                                    <div class="icon-opening-wrapper">
+                                        <div class="icon-opening-container">
+                                            <!--<p class="icon-opening"><i class="fa fa-globe"></i></p>
+                                            <p class="icon-opening-content">www.tseh85.ru</p>-->
+											<p>
+											<span class="highlight">
+											
+											</span>
+											</p>
+                                        </div>
+                                    </div>
+
+
+
+
+
+
+
+ <!--
+ <h4>Мы в социальных сетях</h4>
+                                    <div class="social-icon-container">
+                                        <a href="#"><i class="fa fa-facebook"></i></a>
+                                    </div>
+                                    <div class="social-icon-container">
+                                        <a href="#"><i class="fa fa-twitter"></i></a>
+                                    </div>
+                                    <div class="social-icon-container">
+                                        <a href="#"><i class="fa fa-rss"></i></a>
+                                    </div>
+                                    <div class="social-icon-container">
+                                        <a href="#"><i class="fa fa-pinterest"></i></a>
+                                    </div>
+                                    <div class="social-icon-container">
+                                        <a href="#"><i class="fa fa-linkedin"></i></a>
+                                    </div>
+-->
+</form>
+                    
+                </div>
+                
+            </div><!-- .section-content -->
+        </section>
+          
+        
+           
+        <footer class="page-footer">
+            <div class="footer-light">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-5 slim-right onscroll-animate">
+                           <div class="margin-50"></div>
+                        </div>
+                        <div class="col-md-2 image-container">
+                            <img alt="logo" src="/local/templates/tseh85ru/images/new_logo_85_2.png">
+                            <div class="margin-50"></div>
+                        </div>
+                        <div class="col-md-5 slim-left onscroll-animate" data-delay="400">
+                            
+                            <div class="margin-50"></div>
+                        </div>
+                    </div>
+                </div>
+            </div><!-- .footer-light -->
+            
+           
+                    
+                	<a href="#all" class="to-top scroll-to"></a>
+                </div>
+            </div><!-- .footer-darl -->
+        </footer>
+    </div>
+    <div class="cart" data-update="/ajax/cart.php?refresh=true">
+    <span class="cart__icon">
+        <span class="cart__icon-counter">0</span>
+    </span>
+        <h3 class="cart__title">Ваш заказ пуст</h3>
+    </div>
+    <div class="modal fade" id="order-popup" tabindex="-1" role="dialog" aria-labelledby="order-popup">
+	<div class="modal-dialog" role="document">
+		<div class="modal-content">
+			<div class="modal-body order">
+				<header class="section-header-full">
+                    <h1>Оформление заказа</h1>
+                </header>
+                <div class="order__form forms forms_ajax">
+                	<div class="forms__container form-contact-alt">
+                		<p>Обращаем внимание, что доставка заказа осуществляется на следующий день.</p>
+	<form method="post" action="/ajax/html/order.php" class="forms__self">
+		<div class="row">
+			<div class="forms__field">
+	            <div class="col-sm-3 input-description">
+	                <i class="fa fa-user"></i> ФИО <em>*</em>
+	            </div>
+	            <div class="col-sm-9">
+	                <input type="text" name="ORDER[NAME]" data-validate="string:2" value="" />
+	            </div>
+			</div>
+			<div class="forms__field">
+	            <div class="col-sm-3 input-description">
+	                <i class="fa fa-phone"></i> Телефон <em>*</em>
+	            </div>
+	            <div class="col-sm-9">
+	                <input type="text" data-validate="string:6" name="ORDER[PHONE]" value="" placeholder="+7 (___)" />
+	            </div>
+			</div>
+			<div class="forms__field">
+	            <div class="col-sm-3 input-description">
+	                <i class="fa fa-location-arrow"></i> Адрес
+	            </div>
+	            <div class="col-sm-9">
+	                <input type="text" name="ORDER[ADDRESS]" value="" placeholder="Улица, номер дома, кв/офис" />
+	            </div>
+			</div>
+			<div class="forms__field">
+	            <div class="col-sm-3 input-description">
+	                <i class="fa fa-time"></i> Время
+	            </div>
+	            <div class="col-sm-9">
+	                <input type="text"  name="ORDER[TIME]" value="" placeholder="Удобное время доставки" />
+	            </div>
+			</div>
+			<div class="forms__field">
+	            <div class="col-sm-3 input-description">
+	                Комментарий
+	            </div>
+	            <div class="col-sm-9">
+	                <textarea name="ORDER[COMMENT]" rows="2" placeholder=""></textarea>
+	            </div>
+			</div>
+	    </div>
+	    <button type="submit" class="btn">Оформить заказ!</button>
+	</form>
+
+
+
+                	</div>
+                </div>
+			</div>
+		</div>
+	</div>
+</div>
+	<script type="text/javascript" src="/local/templates/tseh85ru/js/jquery-1.11.1.min.js"></script>
+    <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
+    <script type="text/javascript" src="/local/templates/tseh85ru/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="/local/templates/tseh85ru/owl-carousel/owl.carousel.min.js"></script>
+	<script type="text/javascript" src="/local/templates/tseh85ru/masterslider/masterslider.min.js"></script>
+    <script type="text/javascript" src="/local/templates/tseh85ru/js/jquery.scrollTo.min.js"></script>
+    <script type="text/javascript" src="/local/templates/tseh85ru/js/jquery.stellar.min.js"></script>
+    <script type="text/javascript" src="/local/templates/tseh85ru/js/placeholder-fallback.js"></script>
+    <script type="text/javascript" src="/local/templates/tseh85ru/js/jquery.inview.min.js"></script>
+    <script type="text/javascript" src="/local/templates/tseh85ru/js/custom.js"></script>
+	<script type="text/javascript" src="/local/templates/tseh85ru/js/app.js"></script>
+
+<script type="text/javascript" src="/upload/jquery.fancybox.pack.js"></script>
+<link rel="stylesheet" type="text/css" href="/upload/jquery.fancybox.css" media="screen" />
+<script type="text/javascript">
+	$(document).ready(function() {
+		$(".fancybox").fancybox();
+	});
+</script>
+</body>
+</html>
